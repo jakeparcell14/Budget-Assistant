@@ -1,0 +1,15 @@
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\bin\Debug\Budget Helper.exe.config
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\bin\Debug\Budget Helper.exe
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\bin\Debug\Budget Helper.pdb
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.csprojAssemblyReference.cache
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\App.g.cs
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper_MarkupCompile.cache
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper_MarkupCompile.lref
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\MainWindow.baml
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.g.resources
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget_Helper.Properties.Resources.resources
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.csproj.GenerateResource.cache
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.exe
+C:\Users\Jacob Parcell\Documents\personal\Coding Projects\Budgeting App Project\Budget-Tracker-App\Budget Helper\Budget Helper\obj\Debug\Budget Helper.pdb
