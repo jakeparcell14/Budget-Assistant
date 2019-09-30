@@ -27,7 +27,8 @@ namespace Budget_Helper
 
         private void CreateExpenseButton_Click(object sender, RoutedEventArgs e)
         {
-
+            AddExpenseWindow ew = new AddExpenseWindow();
+            ew.ShowDialog();
         }
     }
 }
