@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Budget_Helper"
         mc:Ignorable="d"
-        Title="Budget Helper" FontSize="18" Height="500" Width="400">
+        Title="Budget Helper" FontSize="18" Height="500" Width="400" Closed="Window_Closed">
 
 	<ScrollViewer>	
 		<Grid>
@@ -22,11 +22,10 @@
 				<RowDefinition Height="20"/>
 			</Grid.RowDefinitions>
 
-			<Button x:Name="createExpenseButton" Content="Create New Expense"
+            <Button x:Name="createExpenseButton" Content="Create New Expense"
 					Grid.Column="1" Grid.Row="1"
 					 Height="50" Margin="10" Click="CreateExpenseButton_Click"/>
 
-		
-		</Grid>
+        </Grid>
 	</ScrollViewer>
 </Window>

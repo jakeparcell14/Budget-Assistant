@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Budget_Helper"
         xmlns:sysglb="clr-namespace:System.Globalization;assembly=mscorlib"
         mc:Ignorable="d"
-        Title="Add Expense" Height="500" Width="400">
+        Title="Add Expense" Height="250" Width="400">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="20"/>

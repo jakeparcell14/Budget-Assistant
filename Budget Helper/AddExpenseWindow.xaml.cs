@@ -21,6 +21,8 @@ namespace Budget_Helper
     /// </summary>
     public partial class AddExpenseWindow: Window
     {
+        public Expense expense = null;
+
         public AddExpenseWindow()
         {
             InitializeComponent();
@@ -28,13 +30,10 @@ namespace Budget_Helper
 
         private void AddExpenseButton_Click(object sender, RoutedEventArgs e)
         {
-            Double costTest;
-
-            if (nameTextBox.Text != "" && datePicker.SelectedDate.HasValue && Double.TryParse(costTextBox.Text, out costTest))
-            { 
+            if (nameTextBox.Text != "" && datePicker.SelectedDate.HasValue && Double.TryParse(costTextBox.Text, out double costTest))
+            {
                 //all values are valid
-                Expense expense = new Expense(nameTextBox.Text, datePicker.SelectedDate.Value, costTest);
-
+                expense = new Expense(nameTextBox.Text, datePicker.SelectedDate.Value, costTest);
                 this.Close();
             }
         }

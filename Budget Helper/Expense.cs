@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Budget_Helper
 {
-    class Expense
+    [Serializable]
+    public class Expense
     {
         //name of expense
         public string Name { get; set; }
