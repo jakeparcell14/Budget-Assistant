@@ -24,5 +24,10 @@ namespace Budget_Helper
         {
             InitializeComponent();
         }
+
+        private void CreateExpenseButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
